@@ -1,0 +1,48 @@
+.plan {
+     background-color: white;
+     border: 1px solid #ddd;
+     border-radius: 5px;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+     margin: 1em;
+     padding: 1em;
+     text-align: center;
+     width: 300px;
+ }
+ 
+ .plan h2 {
+     margin-bottom: 0.5em;
+ }
+ 
+ .price {
+     font-size: 2em;
+     color: #4CAF50;
+ }
+ 
+ .price span {
+     font-size: 0.5em;
+     color: #999;
+ }
+ 
+ ul {
+     list-style-type: none;
+     margin: 1em 0;
+     padding: 0;
+ }
+ 
+ li {
+     padding: 0.5em 0;
+ }
+ 
+ button {
+     background-color: #4CAF50;
+     border: none;
+     border-radius: 5px;
+     color: white;
+     cursor: pointer;
+     padding: 0.5em 1em;
+ }
+ 
+ button:hover {
+     background-color: #45a049;
+ }
+ 
